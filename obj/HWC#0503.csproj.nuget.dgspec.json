@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tshav\\OneDrive\\Рабочий стол\\HWC#0503\\HWC#0503.csproj": {}
+    "C:\\Users\\tshav\\OneDrive\\Рабочий стол\\HW05\\HWC#0503\\HWC#0503.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tshav\\OneDrive\\Рабочий стол\\HWC#0503\\HWC#0503.csproj": {
+    "C:\\Users\\tshav\\OneDrive\\Рабочий стол\\HW05\\HWC#0503\\HWC#0503.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tshav\\OneDrive\\Рабочий стол\\HWC#0503\\HWC#0503.csproj",
+        "projectUniqueName": "C:\\Users\\tshav\\OneDrive\\Рабочий стол\\HW05\\HWC#0503\\HWC#0503.csproj",
         "projectName": "HWC#0503",
-        "projectPath": "C:\\Users\\tshav\\OneDrive\\Рабочий стол\\HWC#0503\\HWC#0503.csproj",
+        "projectPath": "C:\\Users\\tshav\\OneDrive\\Рабочий стол\\HW05\\HWC#0503\\HWC#0503.csproj",
         "packagesPath": "C:\\Users\\tshav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tshav\\OneDrive\\Рабочий стол\\HWC#0503\\obj\\",
+        "outputPath": "C:\\Users\\tshav\\OneDrive\\Рабочий стол\\HW05\\HWC#0503\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tshav\\AppData\\Roaming\\NuGet\\NuGet.Config"
